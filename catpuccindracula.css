@@ -1,11 +1,11 @@
 /**
- * dracula
- * based off dracula color theme (couldn't find old dracula theme so i made one)
- * azy
+    catpuccin color theme ! and cat https://catppuccin.com
+    by azylez
+    
 */
 
 /* import theme modules */
-@import url('https://raw.githubusercontent.com/Azylez/dracula/refs/heads/main/midnight.css');
+@import url('https://refact0r.github.io/system24/build/system24.css');
 
 body {
     /* font, change to '' for default discord font */
